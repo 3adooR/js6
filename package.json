@@ -1,0 +1,16 @@
+{
+  "name": "dz6",
+  "version": "1.0.0",
+  "description": "**JavaScript Developer. Professional**",
+  "scripts": {
+    "build": "node ./src/build.js",
+    "split": "node ./src/split.js",
+    "read": "node ./src/read.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3adooR/js6.git"
+  },
+  "author": "3aDooR",
+  "license": "ISC"
+}
