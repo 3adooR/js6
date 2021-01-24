@@ -5,7 +5,6 @@ const path = require('path');
 class Splitter {
     dir = '';
     highWaterMark = 1024;
-    maxFileSize = 1024;
 
     constructor(dir) {
         this.dir = dir;

@@ -5,7 +5,8 @@
   "scripts": {
     "build": "node ./src/build.js",
     "split": "node ./src/split.js",
-    "read": "node ./src/read.js"
+    "read": "node ./src/read.js",
+    "min": "node ./src/min.js"
   },
   "repository": {
     "type": "git",
